@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Aeroxs</h1>
 
-<!--
-**Aer0xs/Aer0xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🧠 Developer · 💻 Code enthusiast · 🛠️ Hardware & Software Explorer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I'm Aeroxs — someone who enjoys writing code, exploring new technologies, and pushing the limits.  
+I like combining hardware with software and mostly work on personal systems and tools.
+
+---
+
+## 🛠️ Languages I Use
+
+- `C#`
+- `Python`
+- `C++ / Arduino`
+
+---
+
+## ⚙️ Areas of Interest
+
+- 💡 Personal projects & system development  
+- 🤖 AI technologies  
+- 🛠️ Hardware programming (Arduino, ESP)  
+- 🤖 Robotics & control systems  
+
+---
+
+## 💬 Note
+
+I'm a student who's always trying to improve and eager to learn new things.  
+I learn from mistakes and never hesitate to try.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aeroxs&label=Profile+Views" alt="Visitor Counter" />
+</p>
